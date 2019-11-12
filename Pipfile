@@ -11,6 +11,6 @@ jupyter = "*"
 pandas = "*"
 pydotplus = "*"
 graphviz = "*"
-
+matplotlib = "*"
 [requires]
 python_version = "3.7"
