@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe6ccac0-2256-4d55-af9e-9014b7bcf8bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/ovi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/ovi.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/titanic_kernel_ovi-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/titanic_kernel_ovi-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/titanic_kernel_ovi.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/titanic_kernel_ovi.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,6 +74,8 @@
       <workItem from="1573410774822" duration="6535000" />
       <workItem from="1573517901248" duration="640000" />
       <workItem from="1573524045155" duration="165000" />
+      <workItem from="1573859947008" duration="54000" />
+      <workItem from="1573860020781" duration="1192000" />
     </task>
     <servers />
   </component>
